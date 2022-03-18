@@ -1,0 +1,1 @@
+# inheritance-mapping-table-per-subclass
